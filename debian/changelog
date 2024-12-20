@@ -1,3 +1,56 @@
+mint-y-icons (1.8.0) xia; urgency=medium
+
+  [ Hokiper ]
+  * Update Visual Studio Code and Visual Studio Code Insiders icons (#448)
+  * Fix broken links (#449)
+  * Add Scratch and Notion icons (#451)
+  * Fix render-mimetypes.py (#453)
+
+  [ Marcos Sánchez ]
+  * night light icon
+
+  [ Clement Lefebvre ]
+  * Generate cs-nightlight icons
+  * Add .gitignore
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 17 Dec 2024 13:28:17 +0000
+
+mint-y-icons (1.7.9) xia; urgency=medium
+
+  * Mint-Y-Sand: Soften place emblems a little bit
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 29 Nov 2024 15:22:04 +0000
+
+mint-y-icons (1.7.8) xia; urgency=medium
+
+  [ user ]
+  * Add symbolic links for the Proton VPN desktop app
+  * Add Proton Pass icon
+
+  [ MrReplikant ]
+  * Create org.xfce.terminalemulator.png
+  * add org.xfce.terminalemulator symlink
+  * Fixed more XFCE symlinks
+
+  [ Hokiper ]
+  * Update Firefox and Firefox Nightly icons (#431)
+
+  [ Clement Lefebvre ]
+  * Add aptkit
+
+  [ Sakii ]
+  * Add EasyEffects (#435)
+
+  [ Hokiper ]
+  * Update Patreon icon (#446)
+  * Add FreeCAD icon (#447)
+
+  [ Francesco Saltori ]
+  * Add missing mkvtoolnix-gui symlink and remove gnome-builder symlink (#439)
+  * Fix LibreOffice icon symlinks for Flatpak (#438)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Nov 2024 11:58:39 +0000
+
 mint-y-icons (1.7.7) wilma; urgency=medium
 
   [ Michael Webster ]
