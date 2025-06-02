@@ -1,3 +1,21 @@
+mint-y-icons (1.8.3) xia; urgency=medium
+
+  * legacy: Add gtk-find
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 11 Jan 2025 14:09:53 +0000
+
+mint-y-icons (1.8.2) xia; urgency=medium
+
+  * legacy: Add system-search
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 11 Jan 2025 13:47:37 +0000
+
+mint-y-icons (1.8.1) xia; urgency=medium
+
+  * Add emblems for links and broken links
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 08 Jan 2025 10:41:59 +0000
+
 mint-y-icons (1.8.0) xia; urgency=medium
 
   [ Hokiper ]
