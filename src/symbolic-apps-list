@@ -94,6 +94,7 @@ androidstudio.png <- android-studio.png
 androidstudio.png <- com.google.AndroidStudio.png
 anki.png <- net.ankiweb.Anki.png
 anydesk.png <- com.anydesk.Anydesk.png
+apache.png <- jmeter.png
 app-launcher.png <- gnome-panel-launcher.png
 archive-manager.png <- 7z.png
 archive-manager.png <- 7zip.png
@@ -112,6 +113,7 @@ ardour.png <- ardour_icon_22px.png
 ardour.png <- org.ardour.Ardour.png
 arduino.png <- arduino-ide.png
 arduino.png <- cc.arduino.arduinoide.png
+aseprite.png <- com.github.libresprite.LibreSprite.png
 assistant.png <- QtProject-assistant.png
 assistant.png <- assistant-qt4.png
 atom.png <- io.atom.Atom.png
@@ -132,7 +134,10 @@ authy.png <- com.authy.Authy.png
 avast.png <- avastgui.png
 banshee.png <- banshee-1.png
 banshee.png <- media-player-banshee.png
+battlenet.png <- FC6C_Battle.net.0.png
 battlenet.png <- steam_icon_287390.png
+beamng_drive.png <- BeamNG.drive.png
+beamng_drive.png <- steam_icon_28410.png
 beaver.png <- io.dbeaver.DBeaverCommunity.png
 bitcoin.png <- bitcoin-qt.png
 bitwarden.png <- com.bitwarden.desktop.png
@@ -352,6 +357,7 @@ geany.png <- org.geany.Geany.png
 geogebra.png <- chrome-bnbaboaihhkjoaolfnfoablhllahjnee-Default.png
 geogebra.png <- geogebra-classic.png
 geogebra.png <- org.geogebra.GeoGebra.png
+geometry_dash.png <- steam_icon_322170.png
 gfceu.png <- folder-sparkleshare.png
 gfceu.png <- org.sparkleshare.SparkleShare.png
 gfceu.png <- sparkleshare.png
@@ -411,6 +417,7 @@ gnomines.png <- org.gnome.Mines.png
 gnotski.png <- gnome-klotski.png
 gnu-r.png <- Rlogo.png
 gnu-r.png <- rlogo_icon.png
+gnucash.png <- gnucash-icon.png
 gnucash.png <- org.gnucash.GnuCash.png
 gnumeric.png <- org.gnumeric.Gnumeric.png
 gnupg.png <- gcr-gnupg.png
@@ -632,6 +639,7 @@ minecraft.png <- minecraft-launcher.png
 minitube.png <- org.tordini.flavio.Minitube.png
 mintdrivers.png <- jockey-gtk.png
 mintdrivers.png <- jockey.png
+gitg.png <- mintgit.png
 miro.png <- miro-72x72.png
 miro.png <- miro-browse.png
 miro.png <- miro-guide-source.png
@@ -706,8 +714,11 @@ octave.png <- qoctave.png
 octave.png <- qtoctave.png
 okteta.png <- org.kde.okteta.png
 okular.png <- org.kde.okular.png
+onlyoffice.png <- org.onlyoffice.desktopeditors.png
+onlyoffice.png <- onlyoffice-desktopeditors.png
 openshot.png <- org.openshot.OpenShot.png
 openspades.png <- jp.yvt.OpenSpades.png
+openttd.png <- steam_icon_1536610.png
 openttd.png <- org.openttd.OpenTTD.png
 opera.png <- com.opera.Opera.png
 opera.png <- opera-beta.png
@@ -750,7 +761,7 @@ poedit.png <- net.poedit.Poedit.png
 polari.png <- org.gnome.Polari.png
 portal.png <- openarena.png
 portal.png <- steam_icon_400.png
-portal.png <- steam_icon_620.png
+portal_2.png <- steam_icon_620.png
 postgresql.png <- pgadmin3.png
 postman.png <- com.getpostman.Postman.png
 pragha.png <- io.github.pragha_music_player.pragha.png
@@ -1019,8 +1030,7 @@ team-fortress-2.png <- steam_icon_440.png
 teamspeak.png <- com.teamspeak.TeamSpeak.png
 teamspeak.png <- teamspeak3.png
 teamspeak.png <- ts3client_linux_amd64.png
-terminal.png <- br.app.pw3270.terminal.png
-terminal.png <- io.github.tofudd.lanchat.terminal.png
+tenacity.png <- org.tenacityaudio.Tenacity.png
 texmaker.png <- net.xm1math.Texmaker.png
 texstudio.png <- TeXmacs.png
 texstudio.png <- kbibtex.png
@@ -1064,6 +1074,7 @@ utilities-system-monitor.png <- ksysguard.png
 utilities-system-monitor.png <- org.gnome.SystemMonitor.png
 utilities-system-monitor.png <- preferences-system-performance.png
 utilities-system-monitor.png <- ro.fxdata.taskmonitor.viewer.png
+utilities-terminal.png <- br.app.pw3270.terminal.png
 utilities-terminal.png <- Etermutilities-terminal.png
 utilities-terminal.png <- Terminal.png
 utilities-terminal.png <- bash.png
@@ -1072,6 +1083,7 @@ utilities-terminal.png <- deepin-terminal.png
 utilities-terminal.png <- gnome-eterm.png
 utilities-terminal.png <- gnome-terminal.png
 utilities-terminal.png <- gnome-xterm.png
+utilities-terminal.png <- io.github.tofudd.lanchat.terminal.png
 utilities-terminal.png <- konsole.png
 utilities-terminal.png <- lxterminal.png
 utilities-terminal.png <- openterm.png
@@ -1096,6 +1108,7 @@ virtman.png <- virt-manager.png
 virtualbox.png <- VBox.png
 virtualbox.png <- virtualbox-ose.png
 visual-studio-code.png <- com.visualstudio.code.insiders.png
+visual-studio-code.png <- com.visualstudio.code.oss.png
 visual-studio-code.png <- com.visualstudio.code.png
 visual-studio-code.png <- vscode.png
 vivaldi.png <- com.vivaldi.Vivaldi.png
@@ -1168,6 +1181,9 @@ web-google-calendar.png <- chrome-ejjicmeblgpmajnghnpcppodonldlgfn-Default.png
 web-google-calendar.png <- google-calendar.png
 web-google-calendar.png <- unity-webapps-google-calendar.png
 web-google-cast.png <- chrome-boadgeojelhgndaghljhdicfkmllpafd-Default.png
+web-google-chat.png <- GoogleChat-chat.google.com.png
+web-google-chat.png <- google-chat.png
+web-google-chat.png <- brave-mdpkiolbdkhdjpekfbkbmhigcaggjagi-Default.png
 web-google-docs.png <- chrome-aohghmighlieiainnegkcijnfilokake-Default.png
 web-google-docs.png <- google-docs.png
 web-google-docs.png <- unity-webapps-googledocs.png
@@ -1325,6 +1341,9 @@ web-spotify.png <- spotify-client.png
 web-spotify.png <- spotify-exe.png
 web-spotify.png <- spotify-linux-48x48.png
 web-spotify.png <- spotify.png
+web-teams.png <- Teams-teams.live.com.png
+web-teams.png <- Teams-teams.microsoft.com.png
+web-teams.png <- teams.png
 web-telegram.png <- chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default.png
 web-telegram.png <- org.telegram.desktop.png
 web-telegram.png <- telegram.png
